@@ -23,12 +23,12 @@ p {
   font-family: verdana;
 }
 
-p.download {
+.download {
   color: aquamarine;
   font-size: 16px;
 }
 
-p.copyright {
+.copyright {
   color: gray;
   text-align: right;
 }
