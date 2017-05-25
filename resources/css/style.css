@@ -18,7 +18,7 @@ h2 {
 }
 
 p {
-  font-size: 42px;
+  font-size: 21px;
   color: gray;
   font-family: verdana;
 }
@@ -28,7 +28,7 @@ p {
   font-size: 16px;
 }
 
-.copyright {
+.footer {
   color: gray;
   text-align: right;
 }
