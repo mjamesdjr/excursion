@@ -1,0 +1,38 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  background-image: url("file:///Users/matthewdonnellon/Dropbox%20(Personal)/CodeAcademy/Dasmotos/resources/images/pattern.jpeg");
+  text-align: center;
+  font-size: 100px;
+  color: Khaki;
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+  font-weight: bold;
+}
+
+h2#brushes {
+  background-color: mediumspringgreen;
+}
+
+h2#frames {
+  background-color: lightcoral;
+}
+
+h2#paint {
+  background-color: skyblue;
+}
+
+h3 {
+  font-size: 1.17em;
+  font-weight: bold;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
